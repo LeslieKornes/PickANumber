@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PickANumber\PickANumber\bin\Debug\PickANumber.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PickANumber\PickANumber\bin\Debug\PickANumber.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PickANumber\PickANumber\bin\Debug\PickANumber.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PickANumber\PickANumber\obj\Debug\PickANumber.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PickANumber\PickANumber\obj\Debug\PickANumber.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\PickANumber\PickANumber\obj\Debug\PickANumber.pdb
